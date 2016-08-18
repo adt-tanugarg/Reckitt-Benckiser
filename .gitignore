@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
+=======
+>>>>>>> b3b75d76d1e0d3d8a6285d47e2cc32509edc1953
 /build
