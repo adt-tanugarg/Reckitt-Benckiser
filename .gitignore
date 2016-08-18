@@ -1,7 +1,17 @@
-<<<<<<< HEAD
-*.iml
 .gradle
 /local.properties
-=======
->>>>>>> b3b75d76d1e0d3d8a6285d47e2cc32509edc1953
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
+/captures
+.idea
+*.iml
+Mkash.iml
+gradle/
+gradlew.bat
+/app.iml
+asb-android.iml
+../library/library.iml
+../library/build.gradle
+../app/app.iml
